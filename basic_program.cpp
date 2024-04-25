@@ -29,3 +29,5 @@ Hello experimental-branches and conflict resolve
 
 resolve 
 
+squash
+

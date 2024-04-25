@@ -19,8 +19,10 @@ int main() {
 
     return 0;
 }
+
+Hello from feature branch
+Cherry pick................
 Hello experimental-branches and conflict resolve....
 Hello from feature branch
-
 Cherry pick................
-
+resolve 
